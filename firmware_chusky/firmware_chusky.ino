@@ -1,8 +1,6 @@
 #include <NewPing.h>
 NewPing ultra (5,4);
-/*PROGRAMA PARA CONTROLAR EL ROBOT MEDIANTE BLUETOOTH
- * USANDO FUNCIONES DE USUARIO
- */
+
 
 char dato;
 int vd;
